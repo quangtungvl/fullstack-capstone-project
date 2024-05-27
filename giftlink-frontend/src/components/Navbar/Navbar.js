@@ -23,7 +23,7 @@ export default function Navbar() {
                         {/* Updated Link */}
                     </li>
                     <li className="nav-item">
-                        <Link className="nav-link" to="/app/search">Search</Link>
+                        <a className="nav-link" to="/app/search">Search</a>
                     </li>
                 </ul>
             </div>
